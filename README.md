@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Paul</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Trip.io](https://paulboar.github.io/Trip.io/){:target="_blank"}
+- 🔭 I’m currently working on [Trip.io](https://paulboar.github.io/Trip.io/)
 
 - 🌱 I’m currently learning **React**
 
