@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Paul</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<br/>
 
 - 🔭 I’m currently working on [Trip.io](https://paulboar.github.io/Trip.io/)
 
