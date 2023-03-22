@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Trip.io](https://paulboar.github.io/Trip.io/)
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **p.dzik1@wp.pl**
 
